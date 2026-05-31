@@ -1,0 +1,9 @@
+node_modules
+.next
+dist
+build
+.turbo
+.env
+.idea
+.vscode
+.DS_Store
